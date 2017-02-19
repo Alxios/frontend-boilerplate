@@ -1,6 +1,6 @@
 # front end config
 
-[![Build Status](https://travis-ci.org/Dragon93210/Frontend-BoilerPlate.svg?branch=master)](https://travis-ci.org/Dragon93210/Frontend-BoilerPlate)
+[![Build Status](https://travis-ci.org/Dragon93210/frontend-boilerplate.svg?branch=master)](https://travis-ci.org/Dragon93210/frontend-boilerplate)
 
 - git clone {folder}
 - cd {folder}
